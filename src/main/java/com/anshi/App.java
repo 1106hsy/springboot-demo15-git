@@ -6,5 +6,6 @@ public class App {
         System.out.println("hello git2");
         System.out.println("hello git3");
         System.out.println("main test");
+        System.out.println("hot-fix test");
     }
 }
